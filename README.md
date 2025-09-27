@@ -13,13 +13,12 @@ This project blends fitness knowledge with a playful UI to help you get swole, s
 ---
 
 ### 🚀 Features
-
-✅ Workout Generator – Choose from training splits like individual, bro split, bodybuilder split, or upper-lower.
-✅ Targeted Muscles – Lock onto muscles such as triceps, back, or biceps.
-✅ Fitness Goals – Train for strength & power, hypertrophy, or endurance.
-✅ Dynamic Plans – Automatically generates exercises with sets, reps, tempo, and rest times.
-✅ Step-by-Step Guidance – Each exercise comes with form instructions and safety cues.
-✅ Clean UI – Built with React + TailwindCSS for a smooth experience.
+- Workout Generator – Choose from training splits like individual, bro split, bodybuilder split, or upper-lower.
+- Targeted Muscles – Lock onto muscles such as triceps, back, or biceps.
+- Fitness Goals – Train for strength & power, hypertrophy, or endurance.
+- Dynamic Plans – Automatically generates exercises with sets, reps, tempo, and rest times.
+- Step-by-Step Guidance – Each exercise comes with form instructions and safety cues.
+- Clean UI – Built with React + TailwindCSS for a smooth experience.
 
 ---
 
@@ -59,9 +58,6 @@ cd kudos-fit
 npm install
 npm run dev
 ```
-### 📜 License
-
-MIT License © 2025
 
 ### 🏆 Acknowledgments
 
