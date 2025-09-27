@@ -1,7 +1,8 @@
-# 💪 Swolenormous – AI Workout Generator
+### 💪 Swolenormous – AI Workout Generator
 
 “I hereby acknowledge that I may become unbelievably swolenormous and accept all risks of becoming the local mass monstrosity, afflicted with severe body dysmorphia, unable to fit through doors.” 🚪💥
 
+---
 ##📌 Overview
 
 Swolenormous is a fun and interactive React + TailwindCSS fitness app that generates personalized workout routines based on your preferences.
