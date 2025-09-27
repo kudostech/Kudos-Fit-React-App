@@ -12,7 +12,9 @@ This project blends fitness knowledge with a playful UI to help you get swole, s
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo Preview
+
+![Step Progress Demo](https://i.imgur.com/rOHf7qK.png)
 
 ![View]((https://i.imgur.com/S8j5JSd.png))
 
