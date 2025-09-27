@@ -1,4 +1,4 @@
-### 💪 Swolenormous – AI Workout Generator
+# 💪 Swolenormous – AI Workout Generator
 
 “I hereby acknowledge that I may become unbelievably swolenormous and accept all risks of becoming the local mass monstrosity, afflicted with severe body dysmorphia, unable to fit through doors.” 🚪💥
 
@@ -9,8 +9,8 @@ Swolenormous is a fun and interactive React + TailwindCSS fitness app that gener
 Users can pick their training style, muscle groups, and fitness goals — and the app formulates a structured workout plan complete with sets, reps, rest times, and tempos.
 
 This project blends fitness knowledge with a playful UI to help you get swole, shredded, or simply unstoppable.
-
-🚀 Features
+---
+###🚀 Features
 
 ✅ Workout Generator – Choose from training splits like individual, bro split, bodybuilder split, or upper-lower.
 ✅ Targeted Muscles – Lock onto muscles such as triceps, back, or biceps.
@@ -18,8 +18,8 @@ This project blends fitness knowledge with a playful UI to help you get swole, s
 ✅ Dynamic Plans – Automatically generates exercises with sets, reps, tempo, and rest times.
 ✅ Step-by-Step Guidance – Each exercise comes with form instructions and safety cues.
 ✅ Clean UI – Built with React + TailwindCSS for a smooth experience.
-
-🖥️ Tech Stack
+---
+###🖥️ Tech Stack
 
 React (Vite) – Frontend framework
 
