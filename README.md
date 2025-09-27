@@ -1,4 +1,4 @@
-# 💪 Kudos-Fit – GYM TRAINING APP
+# 💪 Kudos-Fit –  A GYM TRAINING APP
 
 “I hereby acknowledge that I may become unbelievably swolenormous and accept all risks of becoming the local mass monstrosity, afflicted with severe body dysmorphia, unable to fit through doors.” 🚪💥
 
