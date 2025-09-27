@@ -35,12 +35,12 @@ Local State – Manage workout generator
 ---
 
 ### 📷 Example Flow
-
+```
 1️⃣ Pick Your Poison → Select workout type
 2️⃣ Lock on Targets → Choose muscle groups
 3️⃣ Become Juggernaut → Pick your fitness goal
 4️⃣ Formulate → Receive a full workout with instructions
-
+```
 ### Example exercise:
 ```
 🏋️ Neutral Grip Dumbbell Bentover Row
