@@ -1,6 +1,7 @@
 # 💪 Swolenormous – AI Workout Generator
 
 “I hereby acknowledge that I may become unbelievably swolenormous and accept all risks of becoming the local mass monstrosity, afflicted with severe body dysmorphia, unable to fit through doors.” 🚪💥
+
 ---
 
 ## 📌 Overview
@@ -10,6 +11,7 @@ Users can pick their training style, muscle groups, and fitness goals — and th
 This project blends fitness knowledge with a playful UI to help you get swole, shredded, or simply unstoppable.
 
 ---
+
 ### 🚀 Features
 
 ✅ Workout Generator – Choose from training splits like individual, bro split, bodybuilder split, or upper-lower.
@@ -18,6 +20,7 @@ This project blends fitness knowledge with a playful UI to help you get swole, s
 ✅ Dynamic Plans – Automatically generates exercises with sets, reps, tempo, and rest times.
 ✅ Step-by-Step Guidance – Each exercise comes with form instructions and safety cues.
 ✅ Clean UI – Built with React + TailwindCSS for a smooth experience.
+
 ---
 
 ### 🖥️ Tech Stack
@@ -29,6 +32,8 @@ Tailwind CSS – Styling & responsive design
 JavaScript (ES6) – App logic
 
 Local State – Manage workout generator
+
+---
 
 ### 📷 Example Flow
 
@@ -44,6 +49,7 @@ Type: Compound
 Muscles: Back
 Reps: 5 | Rest: 120s | Tempo: 4 1 1
 
+---
 ### ⚡ Getting Started
 
 Clone the repo:
