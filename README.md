@@ -12,6 +12,13 @@ This project blends fitness knowledge with a playful UI to help you get swole, s
 
 ---
 
+## 📸 Screenshots
+
+![View]((https://i.imgur.com/S8j5JSd.png))
+
+
+---
+
 ### 🚀 Features
 - Workout Generator – Choose from training splits like individual, bro split, bodybuilder split, or upper-lower.
 - Targeted Muscles – Lock onto muscles such as triceps, back, or biceps.
