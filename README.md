@@ -9,6 +9,7 @@
 Swolenormous is a fun and interactive React + TailwindCSS fitness app that generates personalized workout routines based on your preferences.
 Users can pick their training style, muscle groups, and fitness goals; and the app formulates a structured workout plan complete with sets, reps, rest times, and tempos.
 This project blends fitness knowledge with a playful UI to help you get swole, shredded, or simply unstoppable.
+
 ## 🔗 Live  
 👉 <a href="https://kudos-fit-react-app.vercel.app/" target="_blank">Click here to view live</a>
 
