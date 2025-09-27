@@ -42,12 +42,12 @@ Local State – Manage workout generator
 4️⃣ Formulate → Receive a full workout with instructions
 
 ### Example exercise:
-
+```
 🏋️ Neutral Grip Dumbbell Bentover Row
 Type: Compound
 Muscles: Back
 Reps: 5 | Rest: 120s | Tempo: 4 1 1
-
+```
 ---
 ### ⚡ Getting Started
 
