@@ -16,9 +16,6 @@ This project blends fitness knowledge with a playful UI to help you get swole, s
 
 ![Step Progress Demo](https://i.imgur.com/S8j5JSd.png)
 
-![View]((https://i.imgur.com/S8j5JSd.png))
-
-
 ---
 
 ### 🚀 Features
